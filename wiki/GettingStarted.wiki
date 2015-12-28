@@ -1,0 +1,1 @@
+There will soon be more documentation to come but for now here are the click here to see the [http://ezjdo.googlecode.com/svn/trunk/ezJDO/javadoc/index.html javadocs]
